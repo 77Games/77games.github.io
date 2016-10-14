@@ -1,7 +1,7 @@
 body {
   font-family: "Segoe UI","Open Sans",sans-serif,serif;
   background: #fff;
-  color: #111;
+  color: #333;
 }
 h1 {
   text-align: center;
@@ -9,7 +9,7 @@ h1 {
 }
 a {
   text-decoration: none;
-  color: #003d99;
+  color: #0066ff;
 }
 a:hover {
   text-decoration: underline;
@@ -21,12 +21,12 @@ h2 a:hover {
   text-decoration: none;
 }
 .c {
-  margin-left: 25%;
-  margin-right: 25%;
+  margin-left: 15%;
+  margin-right: 15%;
   font-size: 20px;
 }
 .footer {
-    background: #0066ff;
+    background: #111;
     color: #fff;
     padding: 15;
     margin: -8px;
@@ -38,7 +38,7 @@ h2 a:hover {
 }
 #nav {
   list-style-type: none;
-  background: #0066ff;
+  background: #111;
   height: 50px;
   margin: -8px;
 }
@@ -56,5 +56,5 @@ h2 a:hover {
 
 }
 #nav li:hover {
-  background: #003d99;
+  background: #222;
 }
