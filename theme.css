@@ -5,7 +5,7 @@ body {
 }
 h1 {
   text-align: center;
-  font-size: 120px;
+  font-size: 80px;
 }
 a {
   text-decoration: none;
@@ -20,18 +20,9 @@ h2 a {
 h2 a:hover {
   text-decoration: none;
 }
-.head {
-  background: url("https://wallpaperscraft.com/image/space_flight_sky_shadow_82966_1280x720.jpg");
-  color: #fff;
-  padding-top: 5%;
-  background-size: 100%;
-  padding-bottom: 5%;
-  margin: -8;
-  margin-bottom: 50px;
-}
 .c {
-  margin-left: 25%;
-  margin-right: 25%;
+  margin-left: 15%;
+  margin-right: 15%;
   font-size: 20px;
 }
 .footer {
@@ -41,6 +32,9 @@ h2 a:hover {
     margin: -8px;
     margin-top: 100px;
     text-align: center;
+    bottom: 0;
+    position: fixed;
+    width: 100%;
 }
 #nav {
   list-style-type: none;
