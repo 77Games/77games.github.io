@@ -65,5 +65,5 @@ h2 a:hover {
 
 }
 #nav li:hover {
-  background: #0047b3;
+  background: rgba(0, 0, 0, 0.18);
 }
