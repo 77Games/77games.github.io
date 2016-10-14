@@ -1,0 +1,44 @@
+body {
+  font-family: "Segoe UI","Open Sans",sans-serif,serif;
+  background: #fff;
+  color: #333;
+}
+h1 {
+  text-align: center;
+  font-size: 120px;
+}
+a {
+  text-decoration: none;
+  color: #0066ff;
+}
+a:hover {
+  text-decoration: underline;
+}
+h2 a {
+  color: #333;
+}
+h2 a:hover {
+  text-decoration: none;
+}
+.head {
+  background: url("https://wallpaperscraft.com/image/space_flight_sky_shadow_82966_1280x720.jpg");
+  color: #fff;
+  padding-top: 5%;
+  background-size: 100%;
+  padding-bottom: 5%;
+  margin: -8;
+  margin-bottom: 50px;
+}
+.c {
+  margin-left: 25%;
+  margin-right: 25%;
+  font-size: 20px;
+}
+.footer {
+    background: #111;
+    color: #fff;
+    padding: 15;
+    margin: -8px;
+    margin-top: 100px;
+    text-align: center;
+}
