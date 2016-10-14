@@ -26,7 +26,7 @@ h2 a:hover {
   font-size: 20px;
 }
 .footer {
-    background: #111;
+    background: #0066ff;
     color: #fff;
     padding: 15;
     margin: -8px;
@@ -38,7 +38,7 @@ h2 a:hover {
 }
 #nav {
   list-style-type: none;
-  background: #111;
+  background: #0066ff;
   height: 50px;
   margin: -8px;
 }
@@ -56,5 +56,5 @@ h2 a:hover {
 
 }
 #nav li:hover {
-  background: #222;
+  background: #0047b3;
 }
