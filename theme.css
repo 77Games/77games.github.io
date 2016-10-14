@@ -38,7 +38,11 @@ h2 a:hover {
 li {
   list-style: none;
   border-left: #333 5px solid;
-  padding-left: 5px;
+  padding: 5px;
+  background: #eee;
+}
+ul {
+  margin-left: -30px;
 }
 footer {
     background: #333;
@@ -60,6 +64,8 @@ footer {
   float: left;
   height: 100%;
   border-left: none;
+  padding: 0;
+  background: transparent;
 }
 
 #nav li a {
