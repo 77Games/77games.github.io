@@ -14,6 +14,14 @@ a {
 a:hover {
   text-decoration: underline;
 }
+.head {
+  background: #333;
+  COLOR: #FFF;
+  margin:-8;
+  margin-top: -60px;
+  padding-top: 10%;
+  padding-bottom: 10%;
+}
 h2 a {
   color: #333;
 }
