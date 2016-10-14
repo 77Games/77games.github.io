@@ -42,3 +42,25 @@ h2 a:hover {
     margin-top: 100px;
     text-align: center;
 }
+#nav {
+  list-style-type: none;
+  background: #111;
+  height: 50px;
+  margin: -8px;
+}
+#nav li {
+  float: left;
+  height: 100%;
+}
+
+#nav li a {
+    display: block;
+    color: #fff;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+
+}
+#nav li:hover {
+  background: #222;
+}
