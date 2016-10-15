@@ -62,6 +62,7 @@ footer a {
   height: 50px;
   margin: -8px;
   color: transparent;
+  padding-right: 50px;
 }
 #nav li {
   float: left;
