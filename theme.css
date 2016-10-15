@@ -82,3 +82,8 @@ footer a {
 #nav li:hover {
   background: rgba(0, 0, 0, 0.18);
 }
+iframe {
+    width: 100%;
+    height: 300px;
+    border: none;
+}
