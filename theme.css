@@ -65,6 +65,15 @@ footer {
 footer a {
   color: #fff;
 }
+button {
+  border: none;
+  background: #0072c6;
+  color: #fff;
+  padding: 10px;
+  padding-left: 20px;
+  padding-right: 20px;
+  font-size: 15;
+}
 .post {
   border: #0072c6 3px solid;
   padding: 15px;
