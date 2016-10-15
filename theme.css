@@ -2,10 +2,18 @@ body {
   font-family: "Segoe UI","Open Sans",sans-serif,serif;
   background: #fff;
   color: #333;
+  font-family: "Segoe UI","Open Sans",sans-serif,serif;
+  font-size: 1rem;
+  line-height: 1.2;
+  font-weight: 400;
 }
 h1 {
   text-align: center;
   font-size: 80px;
+  font-weight: 200;
+}
+h2 {
+  font-weight: 500;
 }
 a {
   text-decoration: none;
@@ -40,6 +48,7 @@ li {
   border-left: #0072c6 5px solid;
   padding: 10px;
   background: #eee;
+  font-weight: 200;
 }
 ul {
   margin-left: -30px;
@@ -52,6 +61,7 @@ footer {
     margin-top: 100px;
     font-size: 12;
     text-align: center;
+    font-weight: 200;
 }
 footer a {
   color: #fff;
