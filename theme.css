@@ -73,6 +73,7 @@ button {
   padding-left: 20px;
   padding-right: 20px;
   font-size: 15;
+  cursor: pointer;
 }
 .post {
   border: #0072c6 3px solid;
