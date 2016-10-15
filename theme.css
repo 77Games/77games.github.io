@@ -65,6 +65,10 @@ footer {
 footer a {
   color: #fff;
 }
+.post {
+  border: #0072c6 3px solid;
+  padding: 15px;
+}
 #nav {
   background: #0072c6;
   height: 50px;
