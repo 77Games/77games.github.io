@@ -129,8 +129,12 @@ table {
     font-size: 20px;
 }
 
-td {
-    border: 2px solid #111;
+td,th {
+    border: 5px solid #0072c6;
     text-align: left;
-    padding: 10px;
+    padding: 15px;
+}
+th {
+  background: #0072c6;
+  color: #fff;
 }
