@@ -114,3 +114,11 @@ iframe {
     height: 300px;
     border: none;
 }
+.hb {
+    height: 160px;
+    width: 160px;
+    text-align: left;
+}
+.hb img {
+  height: 120px;
+}
