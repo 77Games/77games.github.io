@@ -126,14 +126,11 @@ table {
     font-family: arial, sans-serif;
     border-collapse: collapse;
     width: 100%;
+    font-size: 20px;
 }
 
-td, th {
-    border: 1px solid #dddddd;
+td {
+    border: 2px solid #111;
     text-align: left;
-    padding: 8px;
-}
-
-tr:nth-child(even) {
-    background-color: #dddddd;
+    padding: 10px;
 }
