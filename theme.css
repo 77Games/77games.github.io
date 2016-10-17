@@ -130,11 +130,13 @@ table {
 }
 
 td,th {
-    border: 5px solid #0072c6;
+    border: 5px solid transparent;
     text-align: left;
     padding: 15px;
+    background: #eee;
 }
 th {
   background: #0072c6;
   color: #fff;
+  text-align: center;
 }
