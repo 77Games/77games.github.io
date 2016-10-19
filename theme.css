@@ -81,7 +81,7 @@ button {
   margin: 10px;
 }
 #nav {
-  background: rgba(0, 114, 198, 0.68);
+  background: rgb(0, 114, 198);
   height: 50px;
   margin-top: -8;
   color: transparent;
@@ -89,6 +89,7 @@ button {
   width: 100%;
   padding-right: 50px;
   left: 0;
+  opacity: 0.9;
 }
 #nav li {
   float: left;
