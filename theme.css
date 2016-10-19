@@ -81,11 +81,14 @@ button {
   margin: 10px;
 }
 #nav {
-  background: #0072c6;
+  background: rgba(0, 114, 198, 0.68);
   height: 50px;
-  margin: -8px;
+  margin-top: -8;
   color: transparent;
+  position: fixed;
+  width: 100%;
   padding-right: 50px;
+  left: 0;
 }
 #nav li {
   float: left;
