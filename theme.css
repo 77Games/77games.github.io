@@ -145,3 +145,14 @@ th {
   color: #fff;
   text-align: center;
 }
+.info {
+  border: 3px solid #0072c6;
+  padding: 15px;
+}
+.infotitle {
+  color: #fff;
+  background: #0072c6;
+  padding: 15px;
+  margin: -15px;
+  margin-bottom: 20px;
+}
