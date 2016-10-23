@@ -22,12 +22,13 @@ a:hover {
   text-decoration: underline;
 }
 .head {
-  background: url("https://wintertrove.github.io/img/bg.jpg");
+  background: url("https://wallpaperscraft.com/image/mountains_night_sky_road_bends_darkness_63269_3840x2160.jpg");
   COLOR: #FFF;
   margin:-8;
   margin-top: -60px;
   padding-top: 9%;
   padding-bottom: 9%;
+  background-size: 100%;
 }
 h2 a {
   color: #333;
